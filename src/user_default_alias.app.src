@@ -1,0 +1,11 @@
+{application, user_default_alias,
+ [
+  {description, ""},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
